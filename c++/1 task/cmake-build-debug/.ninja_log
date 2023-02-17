@@ -1,0 +1,21 @@
+# ninja log v5
+4	229	6983701427578743	CMakeFiles/1_task.dir/main.cpp.obj	8c643a5b23abf1c2
+0	230	6983701427578743	CMakeFiles/1_task.dir/functions.cpp.obj	a78206438bfa01a3
+230	365	6983701428914276	1_task.exe	de2c8aa8cf1761b2
+1	199	6983707865419302	CMakeFiles/1_task.dir/main.cpp.obj	8c643a5b23abf1c2
+199	259	6983707865997365	1_task.exe	de2c8aa8cf1761b2
+1	452	6983713297554984	CMakeFiles/1_task.dir/main.cpp.obj	8c643a5b23abf1c2
+452	625	6983713299270275	1_task.exe	de2c8aa8cf1761b2
+1	278	6983715482262230	CMakeFiles/1_task.dir/functions.cpp.obj	a78206438bfa01a3
+2	188	6983715955816603	CMakeFiles/1_task.dir/main.cpp.obj	8c643a5b23abf1c2
+188	393	6983715957829872	1_task.exe	de2c8aa8cf1761b2
+2	189	6983717664803960	CMakeFiles/1_task.dir/main.cpp.obj	8c643a5b23abf1c2
+193	249	6983717665382027	1_task.exe	de2c8aa8cf1761b2
+2	237	6983721518469062	CMakeFiles/1_task.dir/functions.cpp.obj	a78206438bfa01a3
+237	389	6983721519964061	1_task.exe	de2c8aa8cf1761b2
+1	215	6983723537213179	CMakeFiles/1_task.dir/functions.cpp.obj	a78206438bfa01a3
+4	220	6983723537263011	CMakeFiles/1_task.dir/main.cpp.obj	8c643a5b23abf1c2
+220	280	6983723537833474	1_task.exe	de2c8aa8cf1761b2
+5	192	6983725917707039	CMakeFiles/1_task.dir/functions.cpp.obj	a78206438bfa01a3
+2	196	6983725917756877	CMakeFiles/1_task.dir/main.cpp.obj	8c643a5b23abf1c2
+196	254	6983725918305043	1_task.exe	de2c8aa8cf1761b2
