@@ -47,6 +47,7 @@ int main() {
     int s, f;
     cin >> s >> f;
     bfs(s-1);
+    for
         std::cout << dist[f-1] << ' ';
     return 0;
 }
