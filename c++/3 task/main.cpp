@@ -167,6 +167,7 @@ int Square::multiplySquare(int n) {
     return this->side;
 }
 
+
 Point Square::movOnVector(Point point1) {
     this->point.x = this->point.x + point1.x;
     this->point.y = this->point.y + point1.y;
