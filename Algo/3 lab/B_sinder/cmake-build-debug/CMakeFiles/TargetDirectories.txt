@@ -1,0 +1,3 @@
+D:/Labs/2 sem/sem-2/Algo/3 lab/B_sinder/cmake-build-debug/CMakeFiles/B_sinder.dir
+D:/Labs/2 sem/sem-2/Algo/3 lab/B_sinder/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Labs/2 sem/sem-2/Algo/3 lab/B_sinder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
