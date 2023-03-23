@@ -767,8 +767,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "D:/Labs/2 sem/sem-2/test/cmake-build-debug",
-		"source" : "D:/Labs/2 sem/sem-2/test"
+		"build" : "D:/Labs/2 sem/sem-2/Algo/3 lab/B_sinder/cmake-build-debug",
+		"source" : "D:/Labs/2 sem/sem-2/Algo/3 lab/B_sinder"
 	},
 	"version" : 
 	{

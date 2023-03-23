@@ -1,0 +1,3 @@
+D:/Labs/2 sem/sem-2/Algo/3 lab/C_samokat/cmake-build-debug/CMakeFiles/C_samokat.dir
+D:/Labs/2 sem/sem-2/Algo/3 lab/C_samokat/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Labs/2 sem/sem-2/Algo/3 lab/C_samokat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
