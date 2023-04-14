@@ -1,5 +1,5 @@
 #include "figure.h"
-#include "cmake-build-debug/class_menu.h"
+#include "class_menu.h"
 #include <vector>
 #include <fstream>
 #include <vector>
