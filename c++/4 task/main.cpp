@@ -2,9 +2,7 @@
 #include "class_menu.h"
 #include <vector>
 #include <fstream>
-#include <vector>
 #include <string>
-#include <stdlib.h>
 
 
 Menu menu;

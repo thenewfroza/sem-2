@@ -55,7 +55,7 @@ build CMakeFiles/4_task.dir/main.cpp.obj: CXX_COMPILER__4_task_Debug D$:/Labs/2$
   OBJECT_DIR = CMakeFiles\4_task.dir
   OBJECT_FILE_DIR = CMakeFiles\4_task.dir
 
-build CMakeFiles/4_task.dir/class_menu.cpp.obj: CXX_COMPILER__4_task_Debug D$:/Labs/2$ sem/sem-2/c++/4$ task/cmake-build-debug/class_menu.cpp || cmake_object_order_depends_target_4_task
+build CMakeFiles/4_task.dir/class_menu.cpp.obj: CXX_COMPILER__4_task_Debug D$:/Labs/2$ sem/sem-2/c++/4$ task/class_menu.cpp || cmake_object_order_depends_target_4_task
   DEP_FILE = CMakeFiles\4_task.dir\class_menu.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always -std=gnu++20
   OBJECT_DIR = CMakeFiles\4_task.dir

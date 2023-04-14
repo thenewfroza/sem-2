@@ -55,6 +55,12 @@ build CMakeFiles/test.dir/main.cpp.obj: CXX_COMPILER__test_Debug D$:/Labs/2$ sem
   OBJECT_DIR = CMakeFiles\test.dir
   OBJECT_FILE_DIR = CMakeFiles\test.dir
 
+build CMakeFiles/test.dir/1233.cpp.obj: CXX_COMPILER__test_Debug D$:/Labs/2$ sem/sem-2/test/1233.cpp || cmake_object_order_depends_target_test
+  DEP_FILE = CMakeFiles\test.dir\1233.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\test.dir
+  OBJECT_FILE_DIR = CMakeFiles\test.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target test
@@ -63,7 +69,7 @@ build CMakeFiles/test.dir/main.cpp.obj: CXX_COMPILER__test_Debug D$:/Labs/2$ sem
 #############################################
 # Link the executable test.exe
 
-build test.exe: CXX_EXECUTABLE_LINKER__test_Debug CMakeFiles/test.dir/main.cpp.obj
+build test.exe: CXX_EXECUTABLE_LINKER__test_Debug CMakeFiles/test.dir/main.cpp.obj CMakeFiles/test.dir/1233.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\test.dir

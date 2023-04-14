@@ -1,17 +1,5 @@
 # ninja log v5
-2	401	7031894080301782	CMakeFiles/4_task.dir/figure.cpp.obj	63bddd36b5d38ca5
-5	406	7031894080351787	CMakeFiles/4_task.dir/class_menu.cpp.obj	b88aa0f0854f1ad6
-0	572	7031894082001779	CMakeFiles/4_task.dir/main.cpp.obj	a7b4b1220adcda31
-572	696	7031894083241815	4_task.exe	99e2d7e32e9306d7
-2	545	7031895828136231	CMakeFiles/4_task.dir/main.cpp.obj	a7b4b1220adcda31
-545	641	7031895829076233	4_task.exe	99e2d7e32e9306d7
-5	409	7031907766980592	CMakeFiles/4_task.dir/class_menu.cpp.obj	b88aa0f0854f1ad6
-7	411	7031907767010589	CMakeFiles/4_task.dir/figure.cpp.obj	63bddd36b5d38ca5
-2	598	7031907768870583	CMakeFiles/4_task.dir/main.cpp.obj	a7b4b1220adcda31
-598	695	7031907769830582	4_task.exe	99e2d7e32e9306d7
-5	409	7031941624052326	CMakeFiles/4_task.dir/class_menu.cpp.obj	b88aa0f0854f1ad6
 8	413	7031941624102316	CMakeFiles/4_task.dir/figure.cpp.obj	63bddd36b5d38ca5
-2	604	7031941626002319	CMakeFiles/4_task.dir/main.cpp.obj	a7b4b1220adcda31
-604	698	7031941626922312	4_task.exe	99e2d7e32e9306d7
-1	568	7031941916752562	CMakeFiles/4_task.dir/main.cpp.obj	a7b4b1220adcda31
+5	409	7031941624052326	CMakeFiles/4_task.dir/class_menu.cpp.obj	b88aa0f0854f1ad6
 568	663	7031941917692561	4_task.exe	99e2d7e32e9306d7
+1	568	7031941916752562	CMakeFiles/4_task.dir/main.cpp.obj	a7b4b1220adcda31
