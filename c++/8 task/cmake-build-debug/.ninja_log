@@ -1,0 +1,5 @@
+# ninja log v5
+1	347	7068117228889831	CMakeFiles/8_task.dir/main.cpp.obj	7057c63a30aa0f72
+6	356	7068117228969449	CMakeFiles/8_task.dir/user_interface.cpp.obj	f86952ad5d1a302e
+3	464	7068117230055815	CMakeFiles/8_task.dir/rubik_cube.cpp.obj	15f278b31049a168
+464	546	7068117230853148	8_task.exe	756d0aa2667358a9
